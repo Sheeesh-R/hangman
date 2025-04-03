@@ -1,0 +1,5 @@
+{
+    "easy": ["bird", "tree", "rain", "book", "star", "wind", "fire", "fish", "moon", "time", "path", "song", "leaf", "home", "dark", "light", "game", "idea", "hand", "foot"],
+    "medium": ["sunset", "forest", "river", "shadow", "secret", "puzzle", "mirror", "garden", "summer", "winter", "spring", "autumn", "melody", "silence", "whisper", "zephyr", "ripple", "breeze", "vortex", "harmony"],
+    "hard": ["serendipity", "quixotic", "paradox", "nebula", "obsidian", "luminous", "euphoria", "sonder", "halcyon", "nebulous", "quasar", "epiphany", "zenith", "intricate", "algorithm", "celestial", "metaphor", "phenomenon", "kaleidoscope", "onomatopoeia"]
+  }
